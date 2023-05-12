@@ -3,6 +3,7 @@
 Introducing a powerful to-do app that simplifies your busy life by keeping track of all your tasks and deadlines. With this app created using Androidx, Room Database, Alarms, you can easily add, edit, and delete tasks, set due dates and reminders, and mark them as complete. With this app, you'll never forget a task or miss a deadline again. It's the perfect tool for anyone who wants to stay organized and productive. Try it out today and see how it can simplify your life. Here are some of the features
 
 # splash_screen
+This is the welcome page of this application.
 ![welcome](https://github.com/prajwaldeula2057/todo_app/assets/117331294/482104e7-fa32-4b09-a629-f880d313d21c)
 
 # add_task
