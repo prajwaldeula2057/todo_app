@@ -41,7 +41,7 @@ You can view all your tasks in a calendar format, giving you a concise overview 
 
 # author Prajwal Deula
 
-# reference Binjay Shah
+# reference Binay Shah
 
 https://github.com/binay-shah/TodoMVVM_b
 
