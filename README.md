@@ -5,7 +5,8 @@ Introducing a powerful to-do app that simplifies your busy life by keeping track
 # splash_screen
 ![welcome](https://github.com/prajwaldeula2057/todo_app/assets/117331294/482104e7-fa32-4b09-a629-f880d313d21c)
 
-# add_task With just a few taps, you can quickly add your to-do items to the app. You can give each task a title and add additional details if needed.
+# add_task
+With just a few taps, you can quickly add your to-do items to the app. You can give each task a title and add additional details if needed.
 
 ![createtask](https://github.com/prajwaldeula2057/todo_app/assets/117331294/6e240ac0-4a0c-493d-98ac-5b7efcc2ed00)
 
