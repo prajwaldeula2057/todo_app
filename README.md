@@ -16,19 +16,22 @@ Set Due Dates and Reminders: You can set due dates and reminders for each task t
 ![notify](https://github.com/prajwaldeula2057/todo_app/assets/117331294/55942981-fda1-461e-b033-2db10d4329fc)
 
 
-# update_task : If you need to make changes to a task, you can easily edit it in the app. You can update the title, due date, and other details as needed.
+# update_task : 
+If you need to make changes to a task, you can easily edit it in the app. You can update the title, due date, and other details as needed.
 
 ![updatetask](https://github.com/prajwaldeula2057/todo_app/assets/117331294/56da6de9-b29a-44ac-b985-8ac33e0cd1d9)
 
 Mark Tasks as Complete: Once you've completed a task, you can mark it as complete in the app. This helps you keep track of your progress and see what you've accomplished.
 
 
-# delete_task: If you no longer need a task, you can delete it from the app. This helps you keep your to-do list organized and focused on the tasks that matter most.
+# delete_task: 
+If you no longer need a task, you can delete it from the app. This helps you keep your to-do list organized and focused on the tasks that matter most.
 
 ![deletetask](https://github.com/prajwaldeula2057/todo_app/assets/117331294/d12165a8-2726-4ab5-a018-7ed050bf7614)
 
 
-# calender_view : You can view all your tasks in a calendar format, giving you a concise overview of your schedule. This helps you plan your day and stay on top of your tasks.
+# calender_view :
+You can view all your tasks in a calendar format, giving you a concise overview of your schedule. This helps you plan your day and stay on top of your tasks.
 
 ![calenderview](https://github.com/prajwaldeula2057/todo_app/assets/117331294/2a78ff53-23f8-417a-bf7b-d50982405b85)
 
@@ -38,4 +41,8 @@ Mark Tasks as Complete: Once you've completed a task, you can mark it as complet
 # author Prajwal Deula
 
 # reference Binjay Shah
+
+https://github.com/binay-shah/TodoMVVM_b
+
+
 
